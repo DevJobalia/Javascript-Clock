@@ -4,7 +4,8 @@ First JS Project,
 
 With Functionality:
 
-- Card Expansion using framer motion
+- Use of date constructor
+- access tags with data attributes 
 
 ## Emmet Shortcut
 
